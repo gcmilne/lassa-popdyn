@@ -1,0 +1,4 @@
+title,first_author,published,doi,assay,virus,sample,host,gold_standard,test_pos,true_pos,test_neg,true_neg,n_tot,sensitivity,specificity,notes
+Development of Recombinant Nucleoprotein-Based Diagnostic Systems for Lassa Fever,Saijo,2007,https://doi.org/10.1128/CVI.00101-07,LASV-rNP-based IFA,LASV,serum,human,known infection status,4,4,96,96,200,1,1,
+Development of Recombinant Nucleoprotein-Based Diagnostic Systems for Lassa Fever,Saijo,2007,https://doi.org/10.1128/CVI.00101-07,LASV-rNP-based IFA,LASV,serum,monkey,known infection status,5,5,4,4,18,1,1,
+"Diagnosis and Clinical Virology of Lassa Fever as Evaluated by Enzyme-Linked Immunosorbent Assay, Indirect Fluorescent-Antibody Test, and Virus Isolation",Bausch,2000,10.1128/jcm.38.7.2670-2677.2000,,LASV,serum,human,culture confirmed,35,50,223,255,305,0.7,0.874509804,assay some sort of IFA (not given a specific label)
