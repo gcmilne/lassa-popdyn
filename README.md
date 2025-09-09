@@ -29,7 +29,7 @@ Files not present in the data folder due to their large size or not being open a
 ### Integral projection model (IPM)
 - `R/rodent_model.R` contains defines functions to simulate rodent popultion dynamics & transmission dynamics using an IPM.
 - Transmission is modelled using a nested comparmental model: susceptible, horizontally infected, vertically infected, recovered (SHVR).
-- Subsequent scripts that source the model tend to use `R/setup_IPM.R` which establishes the necessary environment (data, model parameters) for simulation (_NB_: `Data/MORV_seroprev_formatted.rds` will not be found in this repository since these data are not open access (see _Data_, above)).
+- Subsequent scripts that source the model tend to use `R/setup_IPM.R` which establishes the necessary environment (data, model parameters) for simulation.
 - The IPM is simulated using demographic process models (body weight change, survival, and recruitment) that are fit in `R/01_model_fit_bayesian.R`.
 
 ### Data processing
