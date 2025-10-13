@@ -1,8 +1,8 @@
-# Rodent population dynamics drive timing of Lassa fever outbreaks
+# Climate-driven rodent infection dynamics align with Lassa fever seasonality in humans
 
 ### _Manuscript in prep_
 
-### Gregory  C. Milne, Lauren A. Attfield, Joachim Mariën, Lucinda Kirkpatrick, Kate E. Jones, Christl A. Donnelly, David W. Redding
+### Gregory  C. Milne, Lauren A. Attfield, Joachim Mariën, Lucinda Kirkpatrick, Herwig Leirs, Kate E. Jones, Christl A. Donnelly, David W. Redding
 
 ## Navigation
 
