@@ -1,4 +1,4 @@
-# Climate-driven rodent infection dynamics align with Lassa fever seasonality in humans
+# Climate-driven host ecology as a framework for zoonotic disease risk: understanding transferability across arenavirus systems
 
 ### _Manuscript in prep_
 
