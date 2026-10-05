@@ -1,8 +1,9 @@
 # Climate-driven host ecology as a framework for zoonotic disease risk: understanding transferability across arenavirus systems
 
-### PNAS, in press
+### Authors: Gregory  C. Milne, Lauren A. Attfield, Joachim Mariën, Lucinda Kirkpatrick, Herwig Leirs, Kate E. Jones, Christl A. Donnelly, David W. Redding
 
-### Gregory  C. Milne, Lauren A. Attfield, Joachim Mariën, Lucinda Kirkpatrick, Herwig Leirs, Kate E. Jones, Christl A. Donnelly, David W. Redding
+### Paper: _PNAS_, 123 (39), [https://doi.org/10.1073/pnas.2625913123](https://www.pnas.org/doi/10.1073/pnas.2625913123)
+
 
 ## Navigation
 
